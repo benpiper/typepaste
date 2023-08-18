@@ -8,5 +8,5 @@ Virtually type the clipboard contents into a window
 ## How to Use
 
 1. Have some text-based contents on the clipboard.
-2. Execute the script. The mourse cursor will change into an 'X' shape.
+2. Execute the [typepaste.sh](typepaste.sh) script. The mourse cursor will change into an 'X' shape.
 3. Click the spot where you want the clipboard text to be "typed."
